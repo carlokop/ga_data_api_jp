@@ -1,5 +1,7 @@
 csv/*
+!csv/.gitkeep
 json/*
+!json/.gitkeep
 
 #virtual environment
 .venv/
